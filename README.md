@@ -1,6 +1,6 @@
-# Advanced Core 42 School Projects
+# Advanced Core 42Lausanne Projects
 
-This repository contains projects developed as part of the Advanced Core curriculum at **42Lausanne**.
+This repository contains projects developed as part of the **Advanced Core** program at **42Lausanne**.
 
 ## Projects Overview
 
@@ -21,7 +21,7 @@ A comprehensive messaging application featuring:
 
 ## About
 
-This directory serves as a collection point for various projects completed during the Advanced Core program at **42Lausanne**. Each project represents different aspects of software development, system programming, and application architecture.
+This directory serves as a collection point for various projects completed during the **Advanced Core** program at **42Lausanne**. Each project represents different aspects of software development, system programming, and application architecture.
 
 ## Current Status
 
