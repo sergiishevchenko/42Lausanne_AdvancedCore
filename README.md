@@ -4,9 +4,9 @@ This repository contains projects developed as part of the Advanced Core curricu
 
 ## Projects Overview
 
-| Project Name | Status      | Description                                                              | Technologies                        |
+| Project Name |   Status    | Description                                                              | Technologies                        |
 |--------------|-------------|--------------------------------------------------------------------------|-------------------------------------|
-| ft_hangouts  | In Progress | Messaging application with contact management and communication features | C, System Programming, UI/UX Design |
+| ft_hangouts  |    Done     | Messaging application with contact management and communication features | C, System Programming, UI/UX Design |
 
 ## Project Details
 
