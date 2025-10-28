@@ -1,0 +1,3 @@
+[submodule "ft_hangouts"]
+	path = ft_hangouts
+	url = https://github.com/sergiishevchenko/ft_hangouts
