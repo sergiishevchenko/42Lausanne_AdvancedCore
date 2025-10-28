@@ -4,9 +4,9 @@ This repository contains projects developed as part of the **Advanced Core** pro
 
 ## Projects Overview
 
-| Project Name |   Status    | Description                                                              | Technologies                        |
-|--------------|-------------|--------------------------------------------------------------------------|-------------------------------------|
-| ft_hangouts  |    Done     | Messaging application with contact management and communication features | C, System Programming, UI/UX Design |
+| Project Name |   Status    | Description                                                              | Technologies                                           |
+|--------------|-------------|--------------------------------------------------------------------------|--------------------------------------------------------|
+| ft_hangouts  |    Done     | Messaging application with contact management and communication features | Kotlin, Android, Jetpack Compose with Material 3, Room |
 
 ## Project Details
 
